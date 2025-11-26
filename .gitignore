@@ -1,0 +1,41 @@
+# C - объектные и бинарные файлы
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dll
+*.a
+*.dylib
+
+# C - отладочные файлы
+*.pdb
+*.dSYM/
+
+# Java - классы и пакеты
+*.class
+*.jar
+*.war
+*.ear
+
+# Java - логи JVM
+hs_err_pid*
+
+# Папки сборки
+build/
+target/
+bin/
+out/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
